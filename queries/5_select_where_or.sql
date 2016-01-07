@@ -1,0 +1,1 @@
+SELECT * FROM actor WHERE first_name = "PENELOPE" OR first_name = "TOM"
