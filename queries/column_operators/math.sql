@@ -1,0 +1,1 @@
+SELECT title, (rental_rate / 5.0) * 10.0 AS rate_on_10 from film

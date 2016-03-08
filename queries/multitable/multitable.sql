@@ -1,0 +1,1 @@
+SELECT * FROM address, city WHERE address.city_id = city.city_id

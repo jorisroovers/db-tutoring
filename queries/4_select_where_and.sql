@@ -1,1 +1,0 @@
-SELECT * FROM actor WHERE first_name = "PENELOPE" AND last_name="GUINESS"
